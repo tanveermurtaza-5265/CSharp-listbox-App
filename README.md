@@ -1,2 +1,3 @@
-# CSharp-Calculator-App
-A simple calculator application built in C# using Windows Forms.  This project performs basic arithmetic operations like addition, subtraction, multiplication, and division. Created for learning C# GUI development.
+List Box Project
+
+This project demonstrates the implementation of a List Box component used to display and manage a list of items in a graphical user interface. The list box allows users to select one or multiple items from a displayed list.
